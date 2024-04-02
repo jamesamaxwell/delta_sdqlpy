@@ -17,7 +17,7 @@ exit
 python3 -m pip install pip  
 pip3 install numpy==1.22.0  
 ```
-### Installation of sdqlpy:
+### Installation of delta sdqlpy:
 ```
 git clone https://github.com/jamesamaxwell/delta_sdqlpy
 cd delta_sdqlpy/src  
