@@ -252,7 +252,7 @@ def infer_type(AST: Expr, context: dict, cache: dict):
         return AST
 
     elif inputType != Expr:
-        print("Error: Unknown AST: " + str(type(AST)) + "| Value: " + str(AST))
+        # print("Error: Unknown AST: " + str(type(AST)) + "| Value: " + str(AST))
         return
 
 
