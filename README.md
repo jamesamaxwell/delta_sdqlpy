@@ -1,6 +1,6 @@
 # Delta SDQL.py
 
-This project is an implementation of a delta query processor in Python
+This project is an implementation of a delta query processor in Python, based on SDQL.py https://github.com/edin-dal/sdqlpy
 
 Use the following procedure to install <b>delta_sdqlpy</b> and run its test suite:
 
