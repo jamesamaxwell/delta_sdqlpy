@@ -35,3 +35,5 @@ python3 q1_test_all.py
 ```
 
 These tests use sample TPC-H data taken from the following DBToaster Test Data repository: https://github.com/dbtoaster/dbtoaster-experiments-data/tree/master/tpch/standard
+
+The tests read this data and add individual entries one at a time to test the speed it takes Delta SDQL.py to process and return the correct query. Results are compared to the results given by the same queries and test data on the DBToaster system.
