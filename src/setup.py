@@ -2,11 +2,11 @@ import os
 from setuptools import setup
 
 setup(
-    name = "sdqlpy",
+    name = "delta_sdqlpy",
     version = "1.0.0",
-    author = "Hesam Shahrokhi",
-    author_email = "hesam.shahrokhi@ed.ac.uk",
-    description = ("A Compiled Query Engine for Python"),
+    author = "James Maxwell",
+    author_email = "s2017578@ed.ac.uk",
+    description = ("Compiled Delta Query Processing in Python"),
     license = "-",
     keywords = "-",
     url = "-",
