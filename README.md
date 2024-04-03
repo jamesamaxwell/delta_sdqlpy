@@ -33,3 +33,5 @@ At this point, the tests can be run with:
 ```
 python3 q1_test_all.py  
 ```
+
+These tests use sample TPC-H data taken from the following DBToaster Test Data repository: https://github.com/dbtoaster/dbtoaster-experiments-data/tree/master/tpch/standard
