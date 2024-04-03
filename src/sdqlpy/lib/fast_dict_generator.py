@@ -154,7 +154,7 @@ setup(
     packages=find_packages(),
     url='',
     license='',
-    author='Hesam Shahrokhi',
+    author='James maxwell',
     author_email='',
     description='',
     ext_modules=[module1, module2],
